@@ -1,5 +1,6 @@
 # photojav
-Image filter application
+Image filter application personal project
+Made 4 years ago when I first started programming!
 
 #Need to have at least an image saved on your computer as well as the file path to that specific image on your clipboard in order to test this program out. Photo must be a png or jpeg
 
